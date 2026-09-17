@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=OpencodeMonitor
+GenericName=opencode usage widget
+Comment=Always-on-top widget showing opencode usage (5h / 1w / 1m)
+Exec=opencode-monitor
+Icon=opencode-monitor
+Terminal=false
+Categories=Utility;Monitor;
+StartupNotify=false
+Keywords=opencode;usage;widget;monitor;
